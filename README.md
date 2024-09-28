@@ -2,6 +2,11 @@
 
 # santander dev week 2024
 
+Autor:
+
+- [josue.dosidian](https://github.com/Koder012)
+- e-mail: <josue.dosididan@gmail.com>
+  
 ## Diagrama de classes
 
 ``` mermaid
